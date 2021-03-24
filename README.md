@@ -4,5 +4,5 @@ Projeto final de Análise de Fourier em Grafos com o objetivo de estimar a quali
 
 # Referências
 
-- ![[1] Livro de Minicursos SBRT 2018, Capítulo 2, Juliano B. Lima (UFPE), Wallace A. Martins (UFRJ), Guilherme B. Ribeiro (UFPE),
+- [[1] Livro de Minicursos SBRT 2018, Capítulo 2. Juliano B. Lima (UFPE), Wallace A. Martins (UFRJ), Guilherme B. Ribeiro (UFPE),
 Vitor Rosa M. Elias (UFRJ)](http://editora.ifpb.edu.br/index.php/ifpb/catalog/book/231)
